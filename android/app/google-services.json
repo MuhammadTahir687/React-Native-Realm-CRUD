@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132646582860",
+    "project_id": "react-native-firebase-9e150",
+    "storage_bucket": "react-native-firebase-9e150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132646582860:android:d325cf8227b904bf7f12e9",
+        "android_client_info": {
+          "package_name": "com.aimro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132646582860-m8dqph0c088knklhqk8bo3o5kpaq7e68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhQSLnN-fU7e1j5vunKsAHhITKcBTFXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132646582860-m8dqph0c088knklhqk8bo3o5kpaq7e68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
